@@ -1,7 +1,7 @@
 const slides = [
-    "/img/amarelo.png",
-    "/img/rosa.png",
-    "/img/azul2.png",
+    "./img/amarelo.png",
+    "./img/rosa.png",
+    "./img/azul2.png",
    
 ];
 var indiceAtual = 0;

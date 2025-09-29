@@ -373,7 +373,7 @@
   transform: rotateY(180deg);
 }
 .rodape {
-    background: url("/img/fundo.png") no-repeat top center;
+    background: url("./img/fundo.png") no-repeat top center;
     background-size: 100% auto;
     width: 100%;
     display: flex;
