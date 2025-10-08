@@ -96,7 +96,7 @@
 }
 
 .ativo{
-    background:#36a5dd73 ;
+    background:#36a5dd3f ;
     border-radius: 7px;
     padding: 8px 10px;
     font-weight: bolder;
@@ -118,12 +118,13 @@
     font-weight: bold;
 
     @media(max-width: 480px) {
-        font-size: 12px;
+        font-size: 10px;
         padding: 8px;
     }
 }
 
 .logo {
+     margin-top: 10px;
     height: 60px;
 
     @media(max-width: 799px) {
@@ -176,6 +177,7 @@
     color: #FF5D98;
     font-size: 32px;
     margin-bottom: 15px;
+    font-weight: 800;
 }
 
 .texto1 p {
@@ -392,6 +394,7 @@
 
 .redes {
     margin-top: 50px;
+    margin-left: 30px;
 
     @media(max-width: 600px) {
         margin-left: 25px;

@@ -97,7 +97,7 @@
 }
 
 .ativo{
-    background: #ffe1008f;
+    background: #ffe1005c;
     border-radius: 7px;
     padding: 8px 10px;
     font-weight: bolder;
@@ -127,6 +127,7 @@
 }
 
 .logo {
+    margin-top: 10px;
     height: 60px;
 
     @media(max-width: 799px) {
@@ -591,16 +592,14 @@
 
 .redes {
     margin-top: 50px;
+    margin-left: 30px;
 
     @media(max-width: 600px) {
         margin-left: 25px;
     }
-
-    @media(max-width: 500px) {
+     @media(max-width: 500px) {
         margin-top: 90px;
-    }
-
-
+        }
 
     hr {
         border: solid 1px #00066F;
